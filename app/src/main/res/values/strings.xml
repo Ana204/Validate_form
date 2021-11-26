@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FormValidate</string>
+    <string name="formulario">Formulário</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="digite_seu_sobrenome">Digite seu sobreNome</string>
+    <string name="digite_seu_numero_de_telefone">Digite seu numero de telefone</string>
+    <string name="digite_seu_email">Digite seu email</string>
+    <string name="apagar">APAGAR</string>
+    <string name="salvar">SALVAR</string>
 </resources>
