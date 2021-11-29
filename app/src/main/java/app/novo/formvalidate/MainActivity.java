@@ -81,6 +81,8 @@ public class MainActivity extends AppCompatActivity {
                 sobreNome.setText("");
                 telefone.setText("");
                 Email.setText("");
+
+                Toast.makeText(MainActivity.this, "Dados apagados com sucesso", Toast.LENGTH_SHORT).show();
             }
         });
     }
